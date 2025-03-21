@@ -16,13 +16,11 @@ public class Lab_013_11Mar25Task {
         System.out.println();
         System.out.printf("9 * 6= %d", a*6);
         System.out.println();
-        System.out.printf("9 * 7= %d", a*7);
-        System.out.println();
-        System.out.printf("9 * 8= %d", a*8);
-        System.out.println();
-        System.out.printf("9 * 9= %d", a*9);
-        System.out.println();
-        System.out.printf("9 * 10= %d", a*10);
+        System.out.printf("9 * 7= %d\n", a*7);
+        //instead of println we can use escape sequence \n)
+        System.out.printf("9 * 8= %d \n", a*8);
+        System.out.printf("9 * 9= %d\n", a*9);
+        System.out.printf("9 * 10= %d\n", a*10);
         /*
         9 table till 9 * 10= 90 using %d
          */
