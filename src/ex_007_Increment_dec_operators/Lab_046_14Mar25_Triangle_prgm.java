@@ -1,9 +1,8 @@
 package ex_007_Increment_dec_operators;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class Lab_046_Triangle_prgm {
+public class Lab_046_14Mar25_Triangle_prgm {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the length 1");
