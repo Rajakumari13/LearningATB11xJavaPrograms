@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class Lab_086_20Mar25_Task_Feb_series
 {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+{
         Scanner scanner=new Scanner(System.in); //class to get i/p
         System.out.println("Enter the number to show the fibonacci sequence");
         int input= scanner.nextInt(); //enter the input
