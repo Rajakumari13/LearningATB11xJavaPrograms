@@ -1,4 +1,4 @@
-package ex_024_Abstraction_Interface;
+package ex_025_Abstraction_Interface;
 
 public class Lab_159_Interface_Multiple_Inheritance {
     public static void main(String[] args) {
