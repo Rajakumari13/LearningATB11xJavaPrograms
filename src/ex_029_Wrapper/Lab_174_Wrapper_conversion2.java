@@ -1,11 +1,11 @@
-package Wrapper;
+package ex_029_Wrapper;
 
 public class Lab_174_Wrapper_conversion2 {
     public static void main(String[] args) {
         String num="112";
         int aaa=10;
 
-        // String -> Wrapper -> parseX()  ,   Integer.parseInt(num);Double.parseDouble()
+        // String -> ex_029_Wrapper -> parseX()  ,   Integer.parseInt(num);Double.parseDouble()
        Integer a=Integer.parseInt(num);
         Integer b=Integer.valueOf(num);
         System.out.println(a.intValue()); //112

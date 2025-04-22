@@ -1,4 +1,4 @@
-package Wrapper;
+package ex_029_Wrapper;
 
 public class Lab_173_Wrapper_conversion {
     public static void main(String[] args) {

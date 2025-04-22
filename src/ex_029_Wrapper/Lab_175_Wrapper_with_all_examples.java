@@ -1,4 +1,4 @@
-package Wrapper;
+package ex_029_Wrapper;
 
 public class Lab_175_Wrapper_with_all_examples {
     public static void main(String[] args) {
@@ -74,7 +74,7 @@ class Mobile extends OldPhone{
 
     }
 
-    //Wrapper in method
+    //ex_029_Wrapper in method
     void priceChange(Integer price){
         System.out.println("Change the price to Integer");
     }

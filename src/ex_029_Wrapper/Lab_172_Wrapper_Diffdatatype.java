@@ -1,4 +1,4 @@
-package Wrapper;
+package ex_029_Wrapper;
 
 public class Lab_172_Wrapper_Diffdatatype {
     public static void main(String[] args) {

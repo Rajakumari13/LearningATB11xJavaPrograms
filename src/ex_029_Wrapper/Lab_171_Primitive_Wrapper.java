@@ -1,4 +1,4 @@
-package Wrapper;
+package ex_029_Wrapper;
 
 public class Lab_171_Primitive_Wrapper {
     public static void main(String[] args) {
@@ -9,7 +9,7 @@ public class Lab_171_Primitive_Wrapper {
         // char, short, byte, long, float, double, - we will avoid them now
 
 
-        // We will use the Wrapper classes,
+        // We will use the ex_029_Wrapper classes,
         // Character, Boolean, Short, Long, Double, Float
         Integer age=15;  //2147483647
         Integer age1=18;
